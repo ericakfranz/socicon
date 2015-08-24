@@ -1,3 +1,5 @@
 $cat .gitignore
 # exclude all node modules for gulp & sass
 /node_modules/
+# exclude sass cache
+.sass_cache/
