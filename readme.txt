@@ -22,6 +22,9 @@ If you've ever used FontAwesome just for the social icons, you now have an easy 
 
 == Changelog ==
 
+= 1.0.2 =
+* FIX: Chime.in icon CSS
+
 = 1.0.1 =
 * Add Icons: WhatsApp, Storehouse, icq, Model Mayhem, iStock, AngelList and Periscope.
 
