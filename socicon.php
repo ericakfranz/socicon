@@ -3,7 +3,7 @@
  * Plugin Name: Socicon
  * Plugin URI: https://fatpony.me/plugins/socicon/
  * Description: The lightweight social icon font.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: Erica Franz
  * Author URI: https://fatpony.me
  *
