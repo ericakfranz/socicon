@@ -353,6 +353,34 @@
   content: '/';
 }
 
-.socicon-pocket ::before {
+.socicon-pocket::before {
   content: '?';
+}
+
+.socicon-whatsapp::before {
+  content: '<';
+}
+
+.socicon-storehouse::before {
+  content: '>';
+}
+
+.socicon-icq::before {
+  content: '§';
+}
+
+.socicon-model-mayhem::before {
+  content: '!';
+}
+
+.socicon-istock::before {
+  content: '%';
+}
+
+.socicon-angellist::before {
+  content: '€';
+}
+
+.socicon-periscope::before {
+  content: '0';
 }

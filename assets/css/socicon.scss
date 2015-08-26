@@ -18,16 +18,8 @@
         text-transform: none;
     }
 }
-.socicon-twitter {
-    &::before { 
-        content: 'a'; 
-    } 
-}
-.socicon-facebook {
-    &::before { 
-        content: 'b';
-    }
-}
+.socicon-twitter::before { content: 'a'; }
+.socicon-facebook::before { content: 'b'; }
 .socicon-google-plus::before { content: 'c'; }
 .socicon-pinterest::before { content: 'd'; }
 .socicon-foursquare::before { content: 'e'; }
@@ -111,4 +103,11 @@
 .socicon-eight-tracks::before { content: '}'; }
 .socicon-twitch::before { content: '{'; }
 .socicon-airbnb::before { content: '/'; }
-.socicon-pocket ::before { content: '?';}
+.socicon-pocket::before { content: '?'; }
+.socicon-whatsapp::before { content: '<'; }
+.socicon-storehouse::before { content: '>'; }
+.socicon-icq::before { content: '§'; }
+.socicon-model-mayhem::before { content: '!'; }
+.socicon-istock::before { content: '%'; }
+.socicon-angellist::before { content: '€'; }
+.socicon-periscope::before { content: '0'; }
