@@ -7,10 +7,18 @@
   font-style: normal;
   text-transform: initial;
 }
-.socicon::before {
+.socicon::before, [class^="socicon-"]::before, [class*=" socicon-"]::before {
   display: inline-block;
   font-family: 'socicon';
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
   text-transform: none;
+  line-height: 1;
+  /* Improve font-rendering */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 .socicon-twitter::before {
@@ -383,4 +391,8 @@
 
 .socicon-periscope::before {
   content: '0';
+}
+
+.socicon-ravelry::before {
+  content: '°';
 }
