@@ -48,6 +48,10 @@
   content: "\e061";
 }
 
+.socicon-bandcamp::before {
+  content: "\e06a";
+}
+
 .socicon-bebo::before {
   content: "\e035";
 }
@@ -70,6 +74,10 @@
 
 .socicon-dailymotion::before {
   content: "\e053";
+}
+
+.socicon-deezer::before {
+  content: "\e06c";
 }
 
 .socicon-delicious::before {
@@ -98,6 +106,10 @@
 
 .socicon-drupal::before {
   content: "\e002";
+}
+
+.socicon-ebay::before {
+  content: "\e063";
 }
 
 .socicon-ello::before {
@@ -152,6 +164,14 @@
   content: "\e014";
 }
 
+.socicon-google::before {
+  content: "\e067";
+}
+
+.socicon-google-play::before {
+  content: "\e02b";
+}
+
 .socicon-google-plus::before {
   content: "\e042";
 }
@@ -172,12 +192,20 @@
   content: "\e034";
 }
 
+.socicon-imdb::before {
+  content: "\e064";
+}
+
 .socicon-instagram::before {
   content: "\e057";
 }
 
 .socicon-istock::before {
   content: "\e004";
+}
+
+.socicon-itunes::before {
+  content: "\e06b";
 }
 
 .socicon-lanyrd::before {
@@ -272,8 +300,16 @@
   content: "\e031";
 }
 
+.socicon-resident-advisor::before {
+  content: "\e066";
+}
+
 .socicon-rss::before {
   content: "\e00b";
+}
+
+.socicon-sharethis::before {
+  content: "\e069";
 }
 
 .socicon-skype::before {
@@ -302,6 +338,10 @@
 
 .socicon-stackoverflow::before {
   content: "\e007";
+}
+
+.socicon-stayfriends::before {
+  content: "\e065 ";
 }
 
 .socicon-steam::before {
@@ -398,6 +438,10 @@
 
 .socicon-yammer::before {
   content: "\e005";
+}
+
+.socicon-yandex::before {
+  content: "\e068";
 }
 
 .socicon-yelp::before {
