@@ -13,7 +13,7 @@ The easiest way to add Socicon, the social icon font, to your site!
 
 [demo](https://fatpony.me/plugins/socicon/)
 
-The easiest way to add the social icon font [Socicon](http://www.socicon.com) to your WordPress site! Instant access to over 90 social icons, Socicon is a *lightweight* alternative to FontAwesome for displaying social icons.
+The easiest way to add the social icon font [Socicon](http://www.socicon.com) to your WordPress site! Instant access to over 100 social icons, Socicon is a *lightweight* alternative to FontAwesome for displaying social icons.
 
 ### Usage
 
@@ -65,58 +65,73 @@ The following icons are available with Socicon:
 40. Wikipedia  
 41. Apple  
 42. Flattr  
-43. GitHub  
-44. Chime.in  
-45. FriendFeed  
-46. NewsVine  
-47. Identica  
-48. bebo  
-49. zynga  
-50. steam  
-51. XBOX  
-52. Windows  
-53. Outlook  
-54. coderwall  
-55. tripadvisor  
-56. App.net  
-57. goodreads  
-58. TripIt  
-59. Lanyrd  
-60. SlideShare  
-61. Buffer  
-62. RSS  
-63. vKontakte  
-64. DISQUS  
-65. houzz  
-66. Mail  
-67. Patreon  
-68. PayPal  
-69. PlayStation  
-70. SmugMug  
-71. Swarm  
-72. triplej  
-73. Yammer  
-74. stackoverflow  
-75. Drupal  
-76. Odnoklassniki  
-77. Android  
-78. Meetup  
-79. Mozilla Persona  
-80. Amazon  
-81. Ello  
-82. Mixcloud  
-83. 8tracks  
-84. Twitch  
-85. Airbnb  
-86. Pocket  
-87. WhatsApp  
-88. Storehouse  
-89. icq  
-90. Model Mayhem  
-91. iStock  
-92. AngelList  
-93. Periscope  
-94. Ravelry  
+43. GitHub
+44. FriendFeed  
+45. NewsVine  
+46. Identica  
+47. bebo  
+48. zynga  
+49. steam  
+50. XBOX  
+51. Windows  
+52. Outlook  
+53. coderwall  
+54. tripadvisor  
+55. App.net  
+56. goodreads  
+57. TripIt  
+58. Lanyrd  
+59. SlideShare  
+60. Buffer  
+61. RSS  
+62. vKontakte  
+63. DISQUS  
+64. houzz  
+65. Mail  
+66. Patreon  
+67. PayPal  
+68. PlayStation  
+69. SmugMug  
+70. Swarm  
+71. triplej  
+72. Yammer  
+73. stackoverflow  
+74. Drupal  
+75. Odnoklassniki  
+76. Android  
+77. Meetup  
+78. Mozilla Persona  
+79. Amazon  
+80. Ello  
+81. Mixcloud  
+82. 8tracks  
+83. Twitch  
+84. Airbnb  
+85. Pocket  
+86. WhatsApp  
+87. Storehouse  
+88. icq  
+89. Model Mayhem  
+90. iStock  
+91. AngelList  
+92. Periscope  
+93. Ravelry  
+94. Snapchat
+95. Weibo
+96. Douban
+97. Baidu
+98. QQ
+99. Renren
+100. Google
+101. Yandex
+102. eBay
+103. IMDb
+104. StayFriends
+105. DEEZER
+106. ShareThis
+107. bandcamp
+108. iTunes
+109. Resident Advisor
 
 == Installation ==
 
@@ -138,6 +153,13 @@ For a full list of current icons please see the [Socicon Documentation](https://
 8. Even RSS feed links can use Socicon’s RSS icon!  
 
 == Changelog ==
+
+= v1.3.0 =
+* Add Icons: Snapchat, Weibo, Douban, Baidu, QQ, Renren, Google, Yandex, eBay, IMDb, StayFriends, DEEZER, ShareThis, band camp, iTunes and Resident Advisor.
+* Remove Icon: Chime.in
+* Update Socicon font files
+* Update organization of icons in stylesheet for easier maintenance.
+* Add support for class ‘socicon-google-play’ to display Play Store icon.
 
 = v1.1.0 =
 * Add Icon: Ravelry
