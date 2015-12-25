@@ -2,7 +2,7 @@
 Contributors: ericakfranz
 Tags: font, icon, social font, social icon
 Requires at least: 3.5.1
-Tested up to: 4.3
+Tested up to: 4.4
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -146,13 +146,18 @@ For a full list of current icons please see the [Socicon Documentation](https://
 1. Socicon Icons 1-24  
 2. Socicon Icons 25-48  
 3. Socicon Icons 49-72  
-4. Socicon Icons 73-94   
-5. Socicon includes the WordPress logo  
-6. Socicon also includes useful icons such as Mail so you can use Socicon for sharing links.  
-7. Looking to display a PayPal payment link on your site? Use Socicon to display a PayPal icon for quick identification.  
-8. Even RSS feed links can use Socicon’s RSS icon!  
+4. Socicon Icons 73-96
+5. Socicon Icons 97-109
+6. Socicon includes the WordPress logo  
+7. Socicon also includes useful icons such as Mail so you can use Socicon for sharing links.  
+8. Looking to display a PayPal payment link on your site? Use Socicon to display a PayPal icon for quick identification.  
+9. Even RSS feed links can use Socicon’s RSS icon!  
 
 == Changelog ==
+
+= v1.3.1 =
+* Version bump, compatible with WordPress 4.4
+* Update plugin screenshots
 
 = v1.3.0 =
 * Add Icons: Snapchat, Weibo, Douban, Baidu, QQ, Renren, Google, Yandex, eBay, IMDb, StayFriends, DEEZER, ShareThis, band camp, iTunes and Resident Advisor.

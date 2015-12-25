@@ -143,6 +143,10 @@ Please contribute using [Github Flow](https://guides.github.com/introduction/flo
 - Font, [Socicon](http://www.socicon.com) is released under the [SIL Open Font License 1.1](http://scripts.sil.org/OFL).
 
 ## Changelog
+- v1.3.1
+    - Version bump, compatible with WordPress 4.4
+    - Update plugin screenshots
+    
 - v1.3.0
     - Add Icons: Snapchat, Weibo, Douban, Baidu, QQ, Renren, Google, Yandex, eBay, IMDb, StayFriends, DEEZER, ShareThis, band camp, iTunes and Resident Advisor.
     - Remove Icon: Chime.in
