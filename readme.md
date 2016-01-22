@@ -143,6 +143,8 @@ Please contribute using [Github Flow](https://guides.github.com/introduction/flo
 - Font, [Socicon](http://www.socicon.com) is released under the [SIL Open Font License 1.1](http://scripts.sil.org/OFL).
 
 ## Changelog
+- v1.3.2
+    - Fix PHP Notice: Use of undefined constant screen - assumed 'screen' in /wp-content/plugins/socicon/socicon.php on line 17
 - v1.3.1
     - Version bump, compatible with WordPress 4.4
     - Update plugin screenshots
