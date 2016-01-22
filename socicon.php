@@ -14,7 +14,7 @@
 
 // Register socicon
 function socicon_scripts() {
-    wp_register_style( 'socicon',  plugin_dir_url( __FILE__ ) . 'assets/css/socicon.min.css', '1.3.3', screen );
+    wp_register_style( 'socicon',  plugin_dir_url( __FILE__ ) . 'assets/css/socicon.min.css', '1.3.3' );
     wp_enqueue_style( 'socicon' );
 }
 add_action( 'wp_enqueue_scripts', 'socicon_scripts' );
