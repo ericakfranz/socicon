@@ -155,6 +155,9 @@ For a full list of current icons please see the [Socicon Documentation](https://
 
 == Changelog ==
 
+= v1.3.3 =
+* Fix PHP Notice: Use of undefined constant screen - assumed 'screen' in /wp-content/plugins/socicon/socicon.php on line 17
+
 = v1.3.1 =
 * Version bump, compatible with WordPress 4.4
 * Update plugin screenshots
