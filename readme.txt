@@ -2,7 +2,7 @@
 Contributors: ericakfranz
 Tags: font, icon, social font, social icon
 Requires at least: 3.5.1
-Tested up to: 4.4
+Tested up to: 4.5
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -132,6 +132,24 @@ The following icons are available with Socicon:
 107. bandcamp
 108. iTunes
 109. Resident Advisor
+110. Medium
+111. Telegram
+112. OpenID
+113. Implement
+114. Vibes
+115. Tomato
+116. Quota
+117. Draugiem
+118. Endomondo
+119. Film web
+120. Stack exchange
+121. Wykop
+122. Teamspeak
+123. Ventrilo
+124. Radical
+125. Mumble
+126. Young
+127. Teamviewer
 
 == Installation ==
 
@@ -154,6 +172,11 @@ For a full list of current icons please see the [Socicon Documentation](https://
 9. Even RSS feed links can use Socicon’s RSS icon!  
 
 == Changelog ==
+
+= v1.4.0 =
+* Compatible with WordPress 4.5
+* Add Icons: Medium, Telegram, OpenID, Amplement, Viber, Tomato, Quora, Dragiem, Endomondo, Filmweb, Stackexchange, Wykop, Teamspeak, Ventrilo, Raidcall, Mumble, Younow and Teamviewer.
+* Update Socicon font files
 
 = v1.3.3 =
 * Fix PHP Notice: Use of undefined constant screen - assumed 'screen' in /wp-content/plugins/socicon/socicon.php on line 17

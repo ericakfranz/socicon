@@ -119,6 +119,24 @@ The following icons are available with Socicon:
 107. bandcamp
 108. iTunes
 109. Resident Advisor 
+110. Medium
+111. Telegram
+112. OpenID
+113. Amplement
+114. Viber
+115. Zomato
+116. Quora
+117. Draugiem
+118. Endomondo
+119. Filmweb
+120. Stackexchange
+121. Wykop
+122. Teamspeak
+123. Ventrilo
+124. Raidcall
+125. Mumble
+126. Younow
+127. Teamviewer
 
 ## Installation
 
@@ -143,6 +161,12 @@ Please contribute using [Github Flow](https://guides.github.com/introduction/flo
 - Font, [Socicon](http://www.socicon.com) is released under the [SIL Open Font License 1.1](http://scripts.sil.org/OFL).
 
 ## Changelog
+
+- v1.4.0
+ - Compatible with WordPress 4.5
+ - Add Icons: Medium, Telegram, OpenID, Amplement, Viber, Tomato, Quora, Dragiem, Endomondo, Filmweb, Stackexchange, Wykop, Teamspeak, Ventrilo, Raidcall, Mumble, Younow and Teamviewer.
+ - Update Socicon font files
+
 - v1.3.3
     - Fix PHP Notice: Use of undefined constant screen - assumed 'screen' in /wp-content/plugins/socicon/socicon.php on line 17
 - v1.3.1
