@@ -28,6 +28,10 @@
   content: "\e05c";
 }
 
+.socicon-amplement::before {
+  content: "\e070";
+}
+
 .socicon-android::before {
   content: "\e03e";
 }
@@ -100,6 +104,10 @@
   content: "\e03b";
 }
 
+.socicon-draugiem::before {
+  content: "\e074";
+}
+
 .socicon-dribbble::before {
   content: "\e023";
 }
@@ -120,6 +128,10 @@
   content: "\e05b";
 }
 
+.socicon-endomondo::before {
+  content: "\e075";
+}
+
 .socicon-envato::before {
   content: "\e026";
 }
@@ -130,6 +142,10 @@
 
 .socicon-feedburner::before {
   content: "\e048";
+}
+
+.socicon-filmweb::before {
+  content: "\e076";
 }
 
 .socicon-five-hundred-px::before {
@@ -224,6 +240,10 @@
   content: "\e01f";
 }
 
+.socicon-medium::before {
+  content: "\e06d";
+}
+
 .socicon-meetup::before {
   content: "\e03c";
 }
@@ -240,6 +260,10 @@
   content: "\e008";
 }
 
+.socicon-mumble::before {
+  content: "\e07e";
+}
+
 .socicon-myspace::before {
   content: "\e04c";
 }
@@ -250,6 +274,10 @@
 
 .socicon-odnoklassniki::before {
   content: "\e00d";
+}
+
+.socicon-openid::before {
+  content: "\e06f";
 }
 
 .socicon-outlook::before {
@@ -286,6 +314,14 @@
 
 .socicon-qq::before {
   content: "\e03a";
+}
+
+.socicon-quora::before {
+  content: "\e073";
+}
+
+.socicon-raidcall::before {
+  content: "\e07d";
 }
 
 .socicon-ravelry::before {
@@ -336,6 +372,10 @@
   content: "\e04e";
 }
 
+.socicon-stackexchange::before {
+  content: "\e077";
+}
+
 .socicon-stackoverflow::before {
   content: "\e007";
 }
@@ -360,8 +400,20 @@
   content: "\e003";
 }
 
+.socicon-teamspeak::before {
+  content: "\e079";
+}
+
+.socicon-teamviewer::before {
+  content: "\e07a";
+}
+
 .socicon-technorati::before {
   content: "\e021";
+}
+
+.socicon-telegram::before {
+  content: "\e06e";
 }
 
 .socicon-tripadvisor::before {
@@ -388,6 +440,10 @@
   content: "\e040";
 }
 
+.socicon-ventrilo::before {
+  content: "\e07b";
+}
+
 .socicon-viadeo::before {
   content: "\e04a";
 }
@@ -398,6 +454,10 @@
 
 .socicon-vine::before {
   content: "\e054";
+}
+
+.socicon-viber::before {
+  content: "\e071";
 }
 
 .socicon-vkontakte::before {
@@ -424,6 +484,10 @@
   content: "\e058";
 }
 
+.socicon-wykop::before {
+  content: "\e078";
+}
+
 .socicon-xbox::before {
   content: "\e038";
 }
@@ -448,12 +512,20 @@
   content: "\e047";
 }
 
+.socicon-younow::before {
+  content: "\e07c";
+}
+
 .socicon-youtube::before {
   content: "\e051";
 }
 
 .socicon-zerply::before {
   content: "\e02c";
+}
+
+.socicon-zomato::before {
+  content: "\e072";
 }
 
 .socicon-zynga::before {
