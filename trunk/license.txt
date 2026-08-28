@@ -22,4 +22,4 @@ SOFTWARE.
 
 ----------
 
-Socicon Font (sourced from [Socicon](http://www.socicon.com/)) is released under SIL Open Font License 1.1 ([http://scripts.sil.org/OFL](http://scripts.sil.org/OFL)).  
+Socicon Font (sourced from the community-maintained fork at [Ybbet/socicon](https://github.com/Ybbet/socicon), formerly [Socicon](http://www.socicon.com/)) is released under SIL Open Font License 1.1 ([http://scripts.sil.org/OFL](http://scripts.sil.org/OFL)).
