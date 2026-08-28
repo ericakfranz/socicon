@@ -2,7 +2,7 @@
 
 [demo](https://fatpony.me/plugins/socicon/)
 
-The easiest way to add the social icon font [Socicon](http://www.socicon.com) to your WordPress site! Instant access to over 150 social icons, Socicon is a *lightweight* alternative to FontAwesome for displaying social icons.
+The easiest way to add the social icon font [Socicon](http://www.socicon.com) to your WordPress site! Instant access to over 100 social icons, Socicon is a *lightweight* alternative to FontAwesome for displaying social icons.
 
 ![Socicon is a lightweight social icon font, now available as a WordPress plugin.](https://fatpony.me/wp-content/uploads/2015/08/banner-772x250.jpg)
 
@@ -201,6 +201,9 @@ Please contribute using [Github Flow](https://guides.github.com/introduction/flo
 - Font, [Socicon](http://www.socicon.com) is released under the [SIL Open Font License 1.1](http://scripts.sil.org/OFL).
 
 ## Changelog
+
+- v1.5.2
+    - Version bump, compatible with WordPress 7.1.0
 
 - v1.5.1
     - Version bump, compatible with WordPress 6.0.1
